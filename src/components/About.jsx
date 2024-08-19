@@ -15,6 +15,7 @@ const About = () => {
             <p>Hi. I'm Ravi, nice to meet you. Please take a look around. </p>
           </div>
           <div>
+          <h1>Ravi</h1>
             <p>
               I am passionte about building exlent software that improves the
               lifes of those around me. I speacialize in creating software for
