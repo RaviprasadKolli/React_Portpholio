@@ -11,7 +11,7 @@ const Home = () => {
           RaviPrasad Kolli
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Front-end Web Developer
+          I'm a Front-end Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[800px]">
           "As a skilled React.js web developer, I have a strong foundation in
